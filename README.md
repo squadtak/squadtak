@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **squadtak/squadtak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## IBM PalmTop PC110:
+<img width="1709" height="395" alt="pc110" src="https://github.com/user-attachments/assets/f85910f1-a26e-4465-a0e7-3750843fc547" />
+
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=squadtak&repo=squadtak%2Fpc110mech&theme=light_github_repocard)](https://github.com/squadtak/pc110mech)
