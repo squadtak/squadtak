@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## IBM PalmTop PC110:
+### IBM PalmTop PC110
 <img width="1709" height="395" alt="pc110" src="https://github.com/user-attachments/assets/f85910f1-a26e-4465-a0e7-3750843fc547" />
 
 ---
